@@ -1,0 +1,32 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "progress_bar_height",
+      "value": "8fp"
+    },
+    {
+      "name": "btn_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "title_font_size",
+      "value": "18fp"
+    },
+    {
+      "name": "status_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "section_spacing",
+      "value": "24vp"
+    },
+    {
+      "name": "progress_bar_width",
+      "value": "180fp"
+    }
+  ]
+}

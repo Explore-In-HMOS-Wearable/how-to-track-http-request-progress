@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "upload_title",
+      "value": "Upload"
+    },
+    {
+      "name": "download_title",
+      "value": "Download"
+    },
+    {
+      "name": "btn_start_upload",
+      "value": "Start Upload"
+    },
+    {
+      "name": "btn_start_download",
+      "value": "Start Download"
+    },
+    {
+      "name": "upload_success",
+      "value": "Upload complete: %{1}d bytes sent"
+    },
+    {
+      "name": "download_success",
+      "value": "Download complete: %{1}d bytes received"
+    },
+    {
+      "name": "upload_error",
+      "value": "Upload failed"
+    },
+    {
+      "name": "download_error",
+      "value": "Download failed"
+    },
+    {
+      "name": "status_uploading",
+      "value": "Uploading..."
+    },
+    {
+      "name": "status_downloading",
+      "value": "Downloading..."
+    },
+    {
+      "name": "status_idle",
+      "value": "Ready"
+    },
+    {
+      "name": "notification_upload_complete",
+      "value": "Upload successful"
+    },
+    {
+      "name": "notification_download_complete",
+      "value": "Download successful"
+    },
+    {
+      "name": "notification_error",
+      "value": "Operation failed"
+    }
+  ]
+}
